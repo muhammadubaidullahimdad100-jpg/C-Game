@@ -6,3 +6,4 @@ Make file that i attach and make in only source Files.
 After writing all code you need to set up small setting regarding it which is follows:
 on game.cpp,platform_common.cpp,renderer.cpp,utils.cpp right click on this and click properties and go on Configuration Properties then in general then yes the Excluded From Build.
 on win32_platform.cpp stay as empty in General.
+<img width="1088" height="277" alt="image" src="https://github.com/user-attachments/assets/b45b9e9f-b3df-42d7-aecc-0a30b84f3e4b" />
